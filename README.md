@@ -354,7 +354,7 @@ Si encuentras problemas o tienes sugerencias, siéntete libre de reportarlos.
 
 ## 📄 Licencia
 
-Este proyecto es de código abierto y puede ser utilizado libremente.
+Todos los derechos reservados - aadrianavilas
 
 ---
 
